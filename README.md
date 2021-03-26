@@ -5,5 +5,5 @@
   检测速度：高通骁龙835-4核，可达到40FPS
 # REF & Thanks
 1.https://github.com/Tencent/ncnn  
-2.https://github.com/biubug6/Face-Detector-1MB-with-landmark  
+2.https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB    
 3.https://github.com/polarisZhao/PFLD-pytorch
