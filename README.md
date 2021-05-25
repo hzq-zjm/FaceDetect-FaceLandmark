@@ -5,6 +5,7 @@
   检测速度：高通骁龙835-4核，可达到40FPS
 # 效果展示
 ![image](https://github.com/hzq-zjm/FaceDetect-FaceLandmark/blob/main/pic/result.jpg)
+![image](https://github.com/hzq-zjm/FaceDetect-FaceLandmark/blob/main/pic/allstar_result.jpg)
 
 # REF & Thanks
 1.https://github.com/Tencent/ncnn  
